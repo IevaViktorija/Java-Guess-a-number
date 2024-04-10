@@ -27,4 +27,7 @@ public class Main {
         System.out.println("You have guessed it! The right number is " + guess);
     }
 }
+scanner.close();
+}
+}
 ```
